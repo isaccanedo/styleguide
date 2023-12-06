@@ -1,16 +1,16 @@
-# Google Style Guides
+# Guias de estilo do Google
 
-Every major open-source project has its own style guide: a set of conventions
-(sometimes arbitrary) about how to write code for that project. It is much
-easier to understand a large codebase when all the code in it is in a consistent
-style.
+Todo grande projeto de código aberto tem seu próprio guia de estilo: um conjunto de convenções
+(às vezes arbitrário) sobre como escrever código para esse projeto. Isso é muito
+mais fácil entender uma base de código grande quando todo o código nela contido está consistente
+estilo.
 
-“Style” covers a lot of ground, from “use camelCase for variable names” to
-“never use global variables” to “never use exceptions.” This project
-([google/styleguide](https://github.com/google/styleguide)) links to the style
-guidelines we use for Google code. If you are modifying a project that
-originated at Google, you may be pointed to this page to see the style guides
-that apply to that project.
+“Estilo” cobre muito, desde “usar camelCase para nomes de variáveis” até
+“nunca use variáveis globais” para “nunca use exceções”. Este projeto
+([google/styleguide](https://github.com/google/styleguide)) links para o estilo
+diretrizes que usamos para o código do Google. Se você estiver modificando um projeto que
+originado no Google, você pode ser direcionado para esta página para ver os guias de estilo
+que se aplicam a esse projeto.
 
 
 *   [AngularJS Style Guide][angular]
