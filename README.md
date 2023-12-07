@@ -29,9 +29,9 @@ que se aplicam a esse projeto.
 *   [TypeScript Style Guide][ts]
 *   [Vim script Style Guide][vim]
 
-This project also contains [cpplint][cpplint], a tool to assist with style guide
-compliance, and [google-c-style.el][emacs], an Emacs settings file for Google
-style.
+Este projeto também contém [cpplint][cpplint], uma ferramenta para auxiliar no guia de estilo
+conformidade e [google-c-style.el][emacs], um arquivo de configurações do Emacs para o Google
+estilo.
 
 If your project requires that you create a new XML document format, the
 [XML Document Format Style Guide][xml] may be helpful. In addition to actual
