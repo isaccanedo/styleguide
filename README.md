@@ -33,11 +33,11 @@ Este projeto também contém [cpplint][cpplint], uma ferramenta para auxiliar no
 conformidade e [google-c-style.el][emacs], um arquivo de configurações do Emacs para o Google
 estilo.
 
-If your project requires that you create a new XML document format, the
-[XML Document Format Style Guide][xml] may be helpful. In addition to actual
-style rules, it also contains advice on designing your own vs. adapting an
-existing format, on XML instance document formatting, and on elements vs.
-attributes.
+Se o seu projeto exigir a criação de um novo formato de documento XML, o
+[Guia de estilo de formato de documento XML][xml] pode ser útil. Além de real
+regras de estilo, ele também contém conselhos sobre como projetar o seu próprio ou adaptar um
+formato existente, na formatação de documentos de instância XML e em elementos vs.
+atributos.
 
 The style guides in this project are licensed under the CC-By 3.0 License, which
 encourages you to share these documents. See
