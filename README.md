@@ -39,9 +39,9 @@ regras de estilo, ele também contém conselhos sobre como projetar o seu própr
 formato existente, na formatação de documentos de instância XML e em elementos vs.
 atributos.
 
-The style guides in this project are licensed under the CC-By 3.0 License, which
-encourages you to share these documents. See
-[https://creativecommons.org/licenses/by/3.0/][ccl] for more details.
+Os guias de estilo neste projeto são licenciados sob a licença CC-By 3.0, que
+incentiva você a compartilhar esses documentos. Ver
+[https://creativecommons.org/licenses/by/3.0/][ccl] para mais detalhes.
 
 The following Google style guide lives outside of this project:
 [Effective Dart][dart].
