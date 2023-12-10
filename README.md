@@ -46,16 +46,16 @@ incentiva você a compartilhar esses documentos. Ver
 The following Google style guide lives outside of this project:
 [Effective Dart][dart].
 
-## Contributing
+## Contribuindo
 
-With few exceptions, these style guides are copies of Google's internal style
-guides to assist developers working on Google owned and originated open source
-projects. Changes to the style guides are made to the internal style guides
-first and eventually copied into the versions found here. **External
-contributions are not accepted.** Pull requests are regularly closed without
-comment. Issues that raise questions, justify changes on technical merits, or
-point out obvious mistakes may get some engagement and could in theory lead to
-changes, but we are primarily optimizing for Google's internal needs.
+Com poucas exceções, esses guias de estilo são cópias do estilo interno do Google
+guias para ajudar os desenvolvedores que trabalham em código aberto de propriedade e origem do Google
+projetos. As alterações nos guias de estilo são feitas nos guias de estilo internos
+primeiro e eventualmente copiado nas versões encontradas aqui. **Externo
+contribuições não são aceitas.** Solicitações pull são regularmente fechadas sem
+Comente. Questões que levantam questões, justificam mudanças nos méritos técnicos ou
+apontar erros óbvios pode gerar algum envolvimento e, em teoria, levar a
+mudanças, mas estamos otimizando principalmente para as necessidades internas do Google.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
