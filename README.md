@@ -57,7 +57,7 @@ Comente. Questões que levantam questões, justificam mudanças nos méritos té
 apontar erros óbvios pode gerar algum envolvimento e, em teoria, levar a
 mudanças, mas estamos otimizando principalmente para as necessidades internas do Google.
 
-<a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
+<a rel="licença" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
 [cpp]: https://google.github.io/styleguide/cppguide.html
 [csharp]: https://google.github.io/styleguide/csharp-style.html
